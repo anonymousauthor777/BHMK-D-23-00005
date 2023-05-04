@@ -1,5 +1,3 @@
-### This repository constains the code for the manuscript submitted to Behaviormetrika
-
 # Files
 
 # data.rds
