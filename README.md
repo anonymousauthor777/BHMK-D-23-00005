@@ -9,4 +9,4 @@ It's the list needed to run the Stan model. The dimensions of the objects have t
 # run_stan.R
 Runs the Stan models.
 
-Folders sender and receiver contain the Stan models described in Section 2 of the paper. The remainder of the files contain functions for data manipulation and that are needed before run the Stan models.
+Folders sender and receiver contain the Stan models described in Section 2 of the paper. The remainder of the files contain functions for data manipulation and that are needed before run the Stan models. Running saving_structure.R will save the named list needed by Stan.
